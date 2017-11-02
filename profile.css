@@ -3,17 +3,21 @@ font-size: 75px;
 	font-family: "Ravi Prakash", cursive;
 }
 
+.jumbotron{
+	height: 17em;
+	font-family: "Ravi Prakash", cursive;
+}
+.nav nav-pills{
+	align-items: center;
+}
+
 	body {
     background-image: url("12.jpg");
     background-repeat: no-repeat;
-	background-size: cover;
+	  background-size: cover;
     background-color: #cccccc;
-}
+		font-family: 'Josefin Sans', sans-serif;
 
-
-h4{
-	font-size: 30px;
-	font font-family: "Josefin Sans", cursive;
 }
 
 li{
@@ -21,9 +25,47 @@ li{
 
 }
 
+.container {
+  text-align: center;
+	font-size: 16px;
+	font-family: 'Josefin Sans', sans-serif;
+
+  padding: 5px;
+}
+.socialbar h3{
+  font-size: 15px;
+}
+
+.container-fluid{
+	background-color: lavender;
+	height: 2em;
+}
+
+#success_message{ display: none;}
+
+.img-circle{
+	width: 20em;
+	height: 24em;
+}
+
+
+img{
+	width: 5em;
+	height: 4em;
+}
+#frontEnd{
+	margin-left: 2.2em;
+}
+/*
+h4{
+	font-size: 30px;
+	font font-family: "Josefin Sans", cursive;
+}
+
+
 li:hover{
 	color: green;
 }
 li:visited{
 	color:crimson;
-}
+}*/

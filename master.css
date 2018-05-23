@@ -2,7 +2,7 @@ html {
     font-family: GillSans, Calibri, Trebuchet, sans-serif;
 }
 body  {
-   background-image: url("images/web-background.jpg");
+   background-image: url("images/frontpage.jpg");
    background-repeat: no-repeat;
    background-attachment: fixed;
 
@@ -36,4 +36,3 @@ h1,h2,h3,h4,h5,h6{
 .parallax-container {
     height: 5em;
   }
-      

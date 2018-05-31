@@ -1,14 +1,36 @@
 html {
     font-family: GillSans, Calibri, Trebuchet, sans-serif;
+    height: 100%;
 }
 body  {
    background-image: url("images/frontpage.jpg");
    background-repeat: no-repeat;
    background-attachment: fixed;
+     height: 100%;
 
+}
+.dusty{
+  background-color: #96858F;
+}
+
+#pot{
+  width: 220px;
+  height: 220px;
+}
+
+.lavendar{
+background-color: #6D7993;
+}
+
+.overcast{
+  background-color: #9099A2;
+}
+.paper{
+  background-color: #D5D5D5;
 }
 .roundElement{
   border-radius: 22em;
+
 }
 .fonts{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
